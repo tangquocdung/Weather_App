@@ -1,0 +1,26 @@
+{
+  "coord": { "lon": 16.7458, "lat": 53.6059 },
+  "weather": [
+    { "id": 800, "main": "Clear", "description": "clear sky", "icon": "01d" }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 288.88,
+    "feels_like": 287.55,
+    "temp_min": 288.88,
+    "temp_max": 288.88,
+    "pressure": 1028,
+    "humidity": 40,
+    "sea_level": 1028,
+    "grnd_level": 1009
+  },
+  "visibility": 10000,
+  "wind": { "speed": 2.05, "deg": 145, "gust": 2.08 },
+  "clouds": { "all": 8 },
+  "dt": 1685172857,
+  "sys": { "country": "PL", "sunrise": 1685154953, "sunset": 1685214282 },
+  "timezone": 7200,
+  "id": 3083826,
+  "name": "Korea",
+  "cod": 200
+}
