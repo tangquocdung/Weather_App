@@ -1,0 +1,23 @@
+.table tr td img {
+  width: 80px !important;
+  height: 80px !important;
+  object-fit: cover;
+}
+
+td i {
+  cursor: pointer;
+}
+ .buy__btn__checkout {
+  background-color: #1f2c38;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 7px;
+
+ }
+
+ .buy__btn__checkout a {
+  color: #fff;
+  text-decoration: none;
+ }
